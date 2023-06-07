@@ -1,0 +1,26 @@
+button{
+  margin:7px;
+  padding:15px;
+  background-color:black;
+  border-color: rgb(167, 168, 169);
+  border-radius: none;
+  color: bisque;
+  font-weight: bolder;
+}
+.good{
+  padding-top: 2%;
+  border-color: black;
+  text-align: center;
+  margin-top: 5%;
+  border:1px solid rgb(131, 127, 127);
+  margin:"auto";
+  width:20vw;
+  display: flex;
+ 
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  margin-left: 40%;
+  background:linear-gradient(to bottom,grey,rgb(121, 121, 121));
+  padding-bottom: 2%;
+}
